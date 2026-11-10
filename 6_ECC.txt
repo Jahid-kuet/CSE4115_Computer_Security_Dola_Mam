@@ -1,0 +1,7 @@
+https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/amp/
+
+https://hackernoon.com/what-is-the-math-behind-elliptic-curve-cryptography-f61b25253da3
+
+https://bithin.wordpress.com/2012/02/22/simple-explanation-for-elliptic-curve-cryptography-ecc/amp/
+
+http://blog.wesleyac.com/posts/elliptic-curves
